@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10ea285e3391d3544b94a3dfef1d240c, type: 3}
+  m_Name: Music2
+  m_EditorClassIdentifier: 
+  songName: Dance Electro
+  song: {fileID: 8300000, guid: 6df74b7e415b0004cbe399d58899fdcc, type: 3}
+  Notes:
+  - {fileID: 5659504116360469403, guid: d487c9e2a4d1e984c915342b812588f6, type: 3}
+  - {fileID: 3694794865660521353, guid: a53e05568f35a704582eede9696caf9c, type: 3}
+  - {fileID: 6921670974219304597, guid: a93838c4b57bee54dad8dee842f04922, type: 3}
+  delay: 4
+  timerEasy: 120
+  timerNormal: 120
+  timerHard: 120
